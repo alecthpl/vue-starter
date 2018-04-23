@@ -1,8 +1,12 @@
-# vue-app
+# Vue Starter Template
 
-> A Vue.js project
+> Starter template for Vue.js and Firebase/Firestore projects
 
-## Build Setup
+### TODO Once Cloned
+
+> src/firebaseConfig.js needs to be setup with a working firebase project
+
+### Build Setup
 
 ``` bash
 # install dependencies
@@ -17,5 +21,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
