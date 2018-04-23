@@ -1,6 +1,7 @@
 # Vue Starter Template
 
 > Starter template for Vue.js and Firebase/Firestore projects
+> Includes Authentication; Login, Signup, Password Reset + Vue-router && Vuex
 
 ### TODO Once Cloned
 
